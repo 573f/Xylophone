@@ -34,7 +34,5 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         playNote(noteTag: String(sender.tag))
     }
     
-  
-
 }
 
